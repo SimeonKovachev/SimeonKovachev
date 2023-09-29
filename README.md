@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on Spendopia
  
- 🌱 I’m currently learning React and diffrent Libraries related to .NET
+ 🌱 I’m currently learning Python, Machine Learning and diffrent Libraries related to .NET
 
  💬 Ask me about anything related to .NET Framework, Web Development, Wordpress and related technologies
 
