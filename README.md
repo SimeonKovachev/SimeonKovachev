@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Spendopia
+ 🔭 I’m currently working on exciting projects using .NET and Angular.
  
- 🌱 I’m currently learning Python, Machine Learning and diffrent Libraries related to .NET
+ 🌱 Continuously learning about Machine Learning and various libraries related to .NET.
 
- 💬 Ask me about anything related to .NET Framework, Web Development, Wordpress and related technologies
+ 💬 Feel free to ask me anything about .NET Framework, Web Development, WordPress, and related technologies.
 
- ⚡ Fun fact: Married 🔐
+ ⚡ Fun fact: I'm happily married! 🔐
  
  </div>
  
