@@ -31,6 +31,10 @@
 <b>Frontend:</b><br/>
 <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,nextjs,react,tailwind" /><br/><br/>
 
+<!-- DevOps & Tools -->
+<b>DevOps & Tools:</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,azure,docker,figma" />
+
 <!-- AI & Integrations (use shields for reliability and consistent render) -->
 <b>AI & Integrations:</b><br/>
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111?logo=openai&logoColor=white&style=for-the-badge" />
@@ -38,10 +42,6 @@
 <img alt="Hume AI" src="https://img.shields.io/badge/Hume%20AI-111?style=for-the-badge" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-111?logo=googlecloud&logoColor=white&style=for-the-badge" />
 <br/><br/>
-
-<!-- DevOps & Tools -->
-<b>DevOps & Tools:</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,azure,docker,figma" />
 
 </div>
 
@@ -51,17 +51,17 @@
 
 - **Ink-Spell Tattoo Studio Website**  
   **Live:** https://www.ink-spell.com/ • **Repo:** https://github.com/SimeonKovachev/ink-spell-tattoo-app  
-  **Tech:** Next.js, TypeScript, Tailwind CSS, (CMS such as Sanity if used)  
+  **Tech:** Next.js, TypeScript, Tailwind CSS, Sanity  
   **Highlights:** responsive marketing site, galleries, services, contact/booking
 
 - **Selski Pazar — Landing Page (startup idea)**  
   **Live:** https://selski-pazar-landing-page.pages.dev/ • **Repo:** https://github.com/SimeonKovachev/selski-pazar-landing-page  
-  **Tech:** Next.js, React, (Cloudflare Pages)  
+  **Tech:** HTML, CSS, Cloudfare
   **Highlights:** MVP landing page, fast static delivery, clean CTA flow
 
 - **Brainy Canvas — AI Image App**  
   **Repo:** https://github.com/SimeonKovachev/brainy-canvas-ai-image  
-  **Tech:** Next.js, TypeScript, Tailwind, (OpenAI or compatible model), Vercel  
+  **Tech:** Next.js, TypeScript, Tailwind, Vercel  
   **Highlights:** prompt → image generation, preview/download, modern UI
 
 ---
@@ -78,6 +78,5 @@
 ---
 
 <h3 align="center">
-  <!-- IMPORTANT: encode & as %26 to avoid breaking the image URL -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=BB86FC&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+build+with+AI+%26+.NET%2FNext.js" />
 </h3>
